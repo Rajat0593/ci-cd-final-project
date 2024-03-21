@@ -23,7 +23,7 @@ Then you must exit the shell and start a new one for the Python virtual environm
 ```bash
 exit
 ```
-##Final project scenario
+## Final project scenario
 
 
 You're part of a team responsible for building an innovative microservice, a RESTful API that allows users to manage and track counters. Another team has already developed the user interface (UI) for this microservice, and it's now your turn to ensure the reliability and efficiency of the backend services.
